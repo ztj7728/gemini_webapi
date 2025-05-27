@@ -12,7 +12,6 @@
 - [环境与依赖](#环境与依赖)  
 - [获取 API 凭证](#获取-api-凭证)  
 - [调用 API 示例](#调用-api-示例)  
-- [配置说明](#配置说明)  
 - [常见问题](#常见问题)  
 - [许可证](#许可证)  
 
@@ -48,7 +47,7 @@
    ```bash
    git clone https://github.com/ztj7728/gemini_webapi.git
    cd gemini_webapi
-````
+   ````
 
 2. 安装凭证获取脚本依赖
 
