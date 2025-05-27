@@ -55,6 +55,8 @@
    ```bash
    mv get_requirements.txt requirements.txt
    pip install -r requirements.txt
+   pip install -r requirements.txt
+   playwright install chromium
    ```
 3. 启动凭证获取脚本
 
