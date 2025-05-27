@@ -1,4 +1,3 @@
-````markdown
 # Gemini WebAPI 工具
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)  
@@ -136,13 +135,3 @@ Gemini 是一款安全、专业的加密货币交易所，官方提供了 [Gemin
 ## 许可证
 
 本项目遵循 MIT 许可证，详情见 [LICENSE](LICENSE)。
-
----
-
-> **小贴士**：
->
-> * 强烈建议将 `.env` 文件加入 `.gitignore`，不要将凭证上传至公共仓库。
-> * 如需扩展功能，可参考官方 [Gemini-API 文档](https://docs.gemini.com/)。
-
-```
-```
